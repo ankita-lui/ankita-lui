@@ -1,4 +1,4 @@
-![logo](https://github.com/ankita-lui/ankita-lui/blob/main/WhatsApp%20Video.mp4)
+![logo](https://github.com/ankita-lui/ankita-lui/blob/main/canavaholo.png)
 <h1 align="center">Hi 👋, I'm Ankita Karmakar</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
 
