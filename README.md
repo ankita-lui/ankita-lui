@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ankita Karmakar</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankita-lui&label=Profile%20views&color=0e75b6&style=flat" alt="ankita-lui" /> </p>
 
 - 🌱 I’m currently learning **REACT and FIGMA**
@@ -7,6 +8,8 @@
 - 👨‍💻 All of my projects are available at [https://github.com/ankita-lui](https://github.com/ankita-lui)
 
 - 📫 How to reach me **ankita.lui15@gmail.com**
+
+- ⚡ Fun fact **I love sarcasm**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
