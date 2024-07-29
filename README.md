@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankita-lui&label=Profile%20views&color=0e75b6&style=flat" alt="ankita-lui" /> </p>
 
-- 🌱 I’m currently learning **REACT and FIGMA**
+- 🌱 I’m currently learning **MACHINE LEARNING**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ankita-lui](https://github.com/ankita-lui)
 
